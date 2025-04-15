@@ -23,7 +23,7 @@ cd StDemon
 # Make executable
 chmod +x stdutil.py
 # Create symlink (optional)
-sudo ln -s $(pwd)/stdutil.py /usr/local/bin/StDemo
+sudo ln -s $(pwd)/stdutil.py /usr/local/bin/StDemon
 ```
 ## 🚀 Usage
 
