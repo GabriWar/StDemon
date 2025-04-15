@@ -1,8 +1,9 @@
 # 🔍 StDemon - Advanced Process Monitoring Utility
 
 StDemon is a powerful terminal-based process monitoring and inspection utility for Linux systems that provides comprehensive information about running processes with an intuitive, colorful TUI (Text User Interface).
+![image](https://github.com/user-attachments/assets/ecdf9a44-884c-440e-b685-434e8f52e2bd)
+![image](https://github.com/user-attachments/assets/ecd8ecab-208a-46a0-b700-de05b07183b2)
 
-![image](https://github.com/user-attachments/assets/cd16a185-02c7-4f5d-8f50-328e6e8f3002)
 ## ✨ Features
 
 - 🔎 **Process listing and searching** - View all running processes with optional filtering
